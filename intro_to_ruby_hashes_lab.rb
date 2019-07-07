@@ -8,7 +8,7 @@ end
 
 def pioneer
   strong = {}
-  strong[:name] = 'Grace Hopper'
+  strong[:name] = "Grace Hopper"
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
